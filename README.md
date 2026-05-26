@@ -10,12 +10,7 @@
 
 ## التشغيل
 
-1. أنشئ bot من BotFather وخذ التوكن.
-2. ثبّت المتطلبات:
-   `pip install -r requirements.txt`
-3. في لينكس/ماك:
-   `export BOT_TOKEN="ضع_التوكن_هنا"`
-4. في ويندوز PowerShell:
+1. في ويندوز PowerShell:
    `$env:BOT_TOKEN="XXXXXXX"`
-5. شغّل:
+2. شغّل:
    `python3 bot.py`
