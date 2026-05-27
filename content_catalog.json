@@ -1,7 +1,6 @@
 {
   "faculty_name": "كلية الاقتصاد - طرطوس",
-  "contact_text": "🎉📊 مرحباً بكم في قناتنا الجامعية، حيث نعيد تعريف مفهوم التعليم! هل أنتم مستعدون لتجربة فريدة توفر لكم الوقت والجهد؟ ⏳🤓\n\nبوتنا الذكي 📚 هو رفيقكم الجديد في رحلة التعلم، حيث يجمع لكم جميع المقررات والدورات في مكان واحد! 🌐💪\n\nدعونا نساعدكم في تجاوز عقبات البحث الممل وتحقيق النجاح الأكاديمي بأقل جهد ممكن. انضموا إلينا وابدأوا رحلتكم نحو التفوق! 👑\n\nفريقنا يقدم لكم جميع ما تحتاجونه من ملخصات للمواد، وسيقدم لكم بمناسبة افتتاحه عروضاً على طباعة كافة المقررات.\n\n⭕️ لأي استفسار تواصلوا معنا وسيقوم فريقنا بالإجابة على جميع أسئلتكم وتوصياتكم 🌟🎓\n\nمع تمنيات فريق Royal لكم بالتفوق 🤴🏻",
-
+  "contact_text": "أهلاً بكم في بوتنا 📚📲\nسنقدم لكم جميع المقررات والدورات\nلتوفير الوقت والجهد عليكم 🎊\n\nوسنقوم بتوفير ملخصات لجميع المواد\nبشكل ورقي لتسهيل الدراسة وتقليل إضاعة الوقت 👑\n\nللطلب والتوصية على المحاضرات بشكل ورقي من ملخصات ومقررات ودورات،\nوالاستفسار عن خدماتنا بشكل أوضح:\n\nالتواصل على بريد قناة التلغرام 🔽\n\nhttps://t.me/royallibrary26\n\nأو التواصل على الحساب 🔽\n@Royal99sy\n\nرقم الاتصال والواتس آب:\n0939 731 675\n\n💲 وستجدون الأسعار أسفل ملف المادة 💲\n\n📣📫 مكان التسليم في الكولبة مقابل قهوة مسعود على نفس الشارع،\nوبشكل أوضح: الكولبة التي قبل قهوة مسعود تماماً\nعند النزول من الكلية باتجاه دوار الساعة.",
   "admin_user_ids": [],
   "sections": {
     "lectures": "محاضرات الجامعة",
@@ -67,7 +66,7 @@
                       {
                         "title": "دورات - اللغة الإنجليزية 2 - Royal Library",
                         "description": "",
-                        "file": "content/lectures/year1/semester2/english_2/courses/english_2_courses.pdf"
+                        "file": "content/lectures/year1/semester2/english2/courses/english_2_courses.pdf"
                       }
                     ]
                   },
@@ -78,12 +77,12 @@
                       {
                         "title": "اللغة الإنجليزية 2 - Royal Library",
                         "description": "3500",
-                        "file": "content/lectures/year1/semester2/english_2/curriculum/english_2.pdf"
+                        "file": "content/lectures/year1/semester2/english2/curriculum/english_2.pdf"
                       },
                       {
                         "title": "اللغة الإنجليزية 2 - الترجمة - Royal Library",
                         "description": "",
-                        "file": "content/lectures/year1/semester2/english_2/curriculum/english_2_translation.pdf"
+                        "file": "content/lectures/year1/semester2/english2/curriculum/english_2_translation.pdf"
                       }
                     ]
                   },
@@ -94,7 +93,7 @@
                       {
                         "title": "ملخصات - اللغة الإنجليزية 2 - Royal Library",
                         "description": "",
-                        "file": "content/lectures/year1/semester2/english_2/summaries/english_2_summaries.pdf"
+                        "file": "content/lectures/year1/semester2/english2/summaries/english_2_summaries.pdf"
                       }
                     ]
                   }
@@ -111,7 +110,7 @@
                       {
                         "title": "دورات - اللغة العربية - Royal Library",
                         "description": "",
-                        "file": "content/lectures/year1/semester2/arabic_language/courses/arabic_language_courses.pdf"
+                        "file": "content/lectures/year1/semester2/arabic/courses/arabic_language_courses.pdf"
                       }
                     ]
                   },
@@ -122,7 +121,7 @@
                       {
                         "title": "اللغة العربية - أول 3 محاضرات - Royal Library",
                         "description": "4000",
-                        "file": "content/lectures/year1/semester2/arabic_language/curriculum/arabic_first_3_lectures.pdf"
+                        "file": "content/lectures/year1/semester2/arabic/curriculum/arabic_first_3_lectures.pdf"
                       }
                     ]
                   },
@@ -269,7 +268,13 @@
                   {
                     "id": "courses",
                     "label": "دورات المادة",
-                    "items": []
+                    "items": [
+                      {
+                        "title": "دورات - نظم تشغيل الحاسوب - Royal Library",
+                        "description": "",
+                        "file": "content/lectures/year2/semester2/computer_operating_systems/courses/computer_operating_systems_courses.pdf"
+                      }
+                    ]
                   },
                   {
                     "id": "curriculum",
@@ -419,7 +424,13 @@
                   {
                     "id": "courses",
                     "label": "دورات المادة",
-                    "items": []
+                    "items": [
+                      {
+                        "title": "دورات - المدخل إلى القانون التجاري - Royal Library",
+                        "description": "",
+                        "file": "content/lectures/year2/semester2/commercial_law/courses/commercial_law_courses.pdf"
+                      }
+                    ]
                   },
                   {
                     "id": "curriculum",
@@ -492,706 +503,754 @@
         "label": "السنة الثالثة",
         "children": [
           {
-            "id": "semester2",
-            "label": "الفصل الثاني",
+            "id": "accounting",
+            "label": "محاسبة",
             "children": [
               {
-                "id": "accounting_computer_usage",
-                "label": "محاسبة - استخدام الحاسوب",
+                "id": "semester2",
+                "label": "الفصل الثاني",
                 "children": [
                   {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "accounting_computer_usage",
+                    "label": "استخدام الحاسوب",
+                    "children": [
                       {
-                        "title": "دورات - استخدام الحاسوب - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/computer_usage/courses/computer_usage_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "استخدام الحاسوب - Royal Library",
-                        "description": "8000",
-                        "file": "content/lectures/year3/accounting/semester2/computer_usage/curriculum/computer_usage.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - استخدام الحاسوب - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "accounting_financial_analysis",
-                "label": "محاسبة - التحليل المالي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - التحليل المالي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/financial_analysis/courses/financial_analysis_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "التحليل المالي - Royal Library",
-                        "description": "10000",
-                        "file": "content/lectures/year3/accounting/semester2/financial_analysis/curriculum/financial_analysis.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - التحليل المالي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/financial_analysis/summaries/financial_analysis_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "accounting_tax_accounting",
-                "label": "محاسبة - المحاسبة الضريبية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - المحاسبة الضريبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/courses/tax_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
-                        "description": "2500",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_1.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - استخدام الحاسوب - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/computer_usage/courses/computer_usage_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
-                        "description": "2500",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_2.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "استخدام الحاسوب - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/accounting/semester2/computer_usage/curriculum/computer_usage.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الثالث - Royal Library",
-                        "description": "4000",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_3.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - استخدام الحاسوب - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_financial_analysis",
+                    "label": "التحليل المالي",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - التحليل المالي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/financial_analysis/courses/financial_analysis_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الرابع - Royal Library",
-                        "description": "4500",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_4.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - المحاسبة الضريبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/tax_accounting/summaries/tax_accounting_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "accounting_project_evaluation_feasibility_studies",
-                "label": "محاسبة - تقويم المشروعات ودراسات الجدوى",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - تقويم المشروعات ودراسات الجدوى - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/courses/project_evaluation_feasibility_studies_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "تقويم المشروعات ودراسات الجدوى - Royal Library",
-                        "description": "20000",
-                        "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/curriculum/project_evaluation_feasibility_studies.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - تقويم المشروعات ودراسات الجدوى - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/summaries/project_evaluation_feasibility_studies_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "accounting_agricultural_cost_accounting",
-                "label": "محاسبة - محاسبة التكاليف الزراعية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - محاسبة التكاليف الزراعية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/courses/agricultural_cost_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "محاسبة التكاليف الزراعية - Royal Library",
-                        "description": "15000",
-                        "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/curriculum/agricultural_cost_accounting.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - محاسبة التكاليف الزراعية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/summaries/agricultural_cost_accounting_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "accounting_accounting_information_systems",
-                "label": "محاسبة - نظم المعلومات المحاسبية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - نظم المعلومات المحاسبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/courses/accounting_information_systems_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "نظم المعلومات المحاسبية - المحاضرة الأولى - Royal Library",
-                        "description": "2000",
-                        "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/curriculum/accounting_information_systems_lecture_1.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "التحليل المالي - Royal Library",
+                            "description": "10000",
+                            "file": "content/lectures/year3/accounting/semester2/financial_analysis/curriculum/financial_analysis.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "نظم المعلومات المحاسبية - المحاضرة الثانية والثالثة - Royal Library",
-                        "description": "2000",
-                        "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/curriculum/accounting_information_systems_lecture_2.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - التحليل المالي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/financial_analysis/summaries/financial_analysis_summaries.pdf"
+                          }
+                        ]
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
+                    "id": "accounting_tax_accounting",
+                    "label": "المحاسبة الضريبية",
+                    "children": [
                       {
-                        "title": "ملخصات - نظم المعلومات المحاسبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/summaries/accounting_information_systems_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_computer_usage",
-                "label": "مصارف - استخدام الحاسوب",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": []
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "استخدام الحاسوب - Royal Library",
-                        "description": "8000",
-                        "file": "content/lectures/year3/banking/semester2/computer_usage/curriculum/computer_usage.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - استخدام الحاسوب - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_financial_banking_legislation",
-                "label": "مصارف - التشريعات المالية والمصرفية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": []
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "التشريعات المالية والمصرفية - Royal Library",
-                        "description": "9500",
-                        "file": "content/lectures/year3/banking/semester2/financial_banking_legislation/curriculum/financial_banking_legislation.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - التشريعات المالية والمصرفية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/financial_banking_legislation/summaries/financial_banking_legislation_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_international_finance",
-                "label": "مصارف - التمويل الدولي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - التمويل الدولي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/international_finance/courses/international_finance_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "التمويل الدولي - الجزء الأول - Royal Library",
-                        "description": "6000",
-                        "file": "content/lectures/year3/banking/semester2/international_finance/curriculum/international_finance_part_1.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - التمويل الدولي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/international_finance/summaries/international_finance_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_tax_accounting",
-                "label": "مصارف - المحاسبة الضريبية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - المحاسبة الضريبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/courses/tax_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
-                        "description": "2500",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_1.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - المحاسبة الضريبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/courses/tax_accounting_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
-                        "description": "2500",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_2.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
+                            "description": "2500",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_1.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
+                            "description": "2500",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_2.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الثالث - Royal Library",
+                            "description": "4000",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_3.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الرابع - Royal Library",
+                            "description": "4500",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/curriculum/tax_accounting_chapter_4.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
-                        "description": "4000",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_3.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - المحاسبة الضريبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/tax_accounting/summaries/tax_accounting_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_project_evaluation_feasibility_studies",
+                    "label": "تقويم المشروعات ودراسات الجدوى",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - تقويم المشروعات ودراسات الجدوى - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/courses/project_evaluation_feasibility_studies_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
-                        "description": "4500",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_4.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - المحاسبة الضريبية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/tax_accounting/summaries/tax_accounting_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_insurance_guarantee_principles",
-                "label": "مصارف - مبادئ التأمين والضمان",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - مبادئ التأمين والضمان - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/courses/insurance_guarantee_principles_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "مبادئ التأمين والضمان - Royal Library",
-                        "description": "12000",
-                        "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/curriculum/insurance_guarantee_principles.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - مبادئ التأمين والضمان - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/summaries/insurance_guarantee_principles_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "banking_information_systems_technologies",
-                "label": "مصارف - نظم المعلومات وتقاناتها",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - نظم المعلومات وتقاناتها - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/information_systems_technologies/courses/information_systems_technologies_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "نظم المعلومات وتقاناتها - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/information_systems_technologies/curriculum/information_systems_technologies.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - نظم المعلومات وتقاناتها - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/banking/semester2/information_systems_technologies/summaries/information_systems_technologies_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "management_international_business_management",
-                "label": "إدارة أعمال - إدارة الأعمال الدولية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة الأعمال الدولية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/international_business_management/courses/international_business_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "إدارة الأعمال الدولية - Royal Library",
-                        "description": "15000",
-                        "file": "content/lectures/year3/management/semester2/international_business_management/curriculum/international_business_management.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_purchasing_storage_management",
-                "label": "إدارة أعمال - إدارة الشراء والتخزين",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة الشراء والتخزين - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/purchasing_storage_management/courses/purchasing_storage_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "إدارة الشراء والتخزين - Royal Library",
-                        "description": "9000",
-                        "file": "content/lectures/year3/management/semester2/purchasing_storage_management/curriculum/purchasing_storage_management.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_small_business_management",
-                "label": "إدارة أعمال - إدارة المشروعات الصغيرة",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة المشروعات الصغيرة - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/small_business_management/courses/small_business_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "إدارة المشروعات الصغيرة - Royal Library",
-                        "description": "8000",
-                        "file": "content/lectures/year3/management/semester2/small_business_management/curriculum/small_business_management.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_computer_usage",
-                "label": "إدارة أعمال - استخدام الحاسوب",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - استخدام الحاسوب - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/computer_usage/courses/computer_usage_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "استخدام الحاسوب - Royal Library",
-                        "description": "8000",
-                        "file": "content/lectures/year3/management/semester2/computer_usage/curriculum/computer_usage.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": [
-                      {
-                        "title": "ملخصات - استخدام الحاسوب - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "id": "management_decision_theory",
-                "label": "إدارة أعمال - نظرية القرارات",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - نظرية القرارات - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/decision_theory/courses/decision_theory_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "نظرية القرارات - Royal Library",
-                        "description": "30000",
-                        "file": "content/lectures/year3/management/semester2/decision_theory/curriculum/decision_theory.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "تقويم المشروعات ودراسات الجدوى - Royal Library",
+                            "description": "20000",
+                            "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/curriculum/project_evaluation_feasibility_studies.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "نظرية القرارات - مسائل عملي - Royal Library",
-                        "description": "1500",
-                        "file": "content/lectures/year3/management/semester2/decision_theory/curriculum/decision_theory_practical_problems.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - تقويم المشروعات ودراسات الجدوى - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/project_evaluation_feasibility_studies/summaries/project_evaluation_feasibility_studies_summaries.pdf"
+                          }
+                        ]
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
+                    "id": "accounting_agricultural_cost_accounting",
+                    "label": "محاسبة التكاليف الزراعية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - محاسبة التكاليف الزراعية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/courses/agricultural_cost_accounting_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "محاسبة التكاليف الزراعية - Royal Library",
+                            "description": "15000",
+                            "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/curriculum/agricultural_cost_accounting.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - محاسبة التكاليف الزراعية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/agricultural_cost_accounting/summaries/agricultural_cost_accounting_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_accounting_information_systems",
+                    "label": "نظم المعلومات المحاسبية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - نظم المعلومات المحاسبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/courses/accounting_information_systems_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "نظم المعلومات المحاسبية - المحاضرة الأولى - Royal Library",
+                            "description": "2000",
+                            "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/curriculum/accounting_information_systems_lecture_1.pdf"
+                          },
+                          {
+                            "title": "نظم المعلومات المحاسبية - المحاضرة الثانية والثالثة - Royal Library",
+                            "description": "2000",
+                            "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/curriculum/accounting_information_systems_lecture_2.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - نظم المعلومات المحاسبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/accounting/semester2/accounting_information_systems/summaries/accounting_information_systems_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "id": "banking",
+            "label": "مصارف",
+            "children": [
               {
-                "id": "management_organization_theory",
-                "label": "إدارة أعمال - نظرية المنظمة",
+                "id": "semester2",
+                "label": "الفصل الثاني",
                 "children": [
                   {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "banking_computer_usage",
+                    "label": "استخدام الحاسوب",
+                    "children": [
                       {
-                        "title": "دورات - نظرية المنظمة - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year3/management/semester2/organization_theory/courses/organization_theory_courses.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - استخدام الحاسوب - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/banking/semester2/computer_usage/courses/computer_usage_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "استخدام الحاسوب - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/banking/semester2/computer_usage/curriculum/computer_usage.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - استخدام الحاسوب - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
+                          }
+                        ]
                       }
                     ]
                   },
                   {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
+                    "id": "banking_financial_banking_legislation",
+                    "label": "التشريعات المالية والمصرفية",
+                    "children": [
                       {
-                        "title": "نظرية المنظمة - Royal Library",
-                        "description": "8000",
-                        "file": "content/lectures/year3/management/semester2/organization_theory/curriculum/organization_theory.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": []
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "التشريعات المالية والمصرفية - Royal Library",
+                            "description": "9500",
+                            "file": "content/lectures/year3/banking/semester2/financial_banking_legislation/curriculum/financial_banking_legislation.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - التشريعات المالية والمصرفية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/financial_banking_legislation/summaries/financial_banking_legislation_summaries.pdf"
+                          }
+                        ]
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
+                    "id": "banking_international_finance",
+                    "label": "التمويل الدولي",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - التمويل الدولي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/international_finance/courses/international_finance_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "التمويل الدولي - الجزء الأول - Royal Library",
+                            "description": "6000",
+                            "file": "content/lectures/year3/banking/semester2/international_finance/curriculum/international_finance_part_1.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - التمويل الدولي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/international_finance/summaries/international_finance_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_tax_accounting",
+                    "label": "المحاسبة الضريبية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - المحاسبة الضريبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/courses/tax_accounting_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
+                            "description": "2500",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_1.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
+                            "description": "2500",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_2.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
+                            "description": "4000",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_3.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
+                            "description": "4500",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_4.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - المحاسبة الضريبية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/tax_accounting/summaries/tax_accounting_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_insurance_guarantee_principles",
+                    "label": "مبادئ التأمين والضمان",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - مبادئ التأمين والضمان - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/courses/insurance_guarantee_principles_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "مبادئ التأمين والضمان - Royal Library",
+                            "description": "12000",
+                            "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/curriculum/insurance_guarantee_principles.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - مبادئ التأمين والضمان - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/insurance_guarantee_principles/summaries/insurance_guarantee_principles_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_information_systems_technologies",
+                    "label": "نظم المعلومات وتقاناتها",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - نظم المعلومات وتقاناتها - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/information_systems_technologies/courses/information_systems_technologies_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "نظم المعلومات وتقاناتها - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/information_systems_technologies/curriculum/information_systems_technologies.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - نظم المعلومات وتقاناتها - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/banking/semester2/information_systems_technologies/summaries/information_systems_technologies_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "management",
+            "label": "إدارة أعمال",
+            "children": [
+              {
+                "id": "semester2",
+                "label": "الفصل الثاني",
+                "children": [
+                  {
+                    "id": "management_international_business_management",
+                    "label": "إدارة الأعمال الدولية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة الأعمال الدولية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/international_business_management/courses/international_business_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "إدارة الأعمال الدولية - Royal Library",
+                            "description": "15000",
+                            "file": "content/lectures/year3/management/semester2/international_business_management/curriculum/international_business_management.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - إدارة الأعمال الدولية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/international_business_management/summaries/international_business_management_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "management_purchasing_storage_management",
+                    "label": "إدارة الشراء والتخزين",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة الشراء والتخزين - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/purchasing_storage_management/courses/purchasing_storage_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "إدارة الشراء والتخزين - Royal Library",
+                            "description": "9000",
+                            "file": "content/lectures/year3/management/semester2/purchasing_storage_management/curriculum/purchasing_storage_management.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - إدارة الشراء والتخزين - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/purchasing_storage_management/summaries/purchasing_storage_management_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "management_small_business_management",
+                    "label": "إدارة المشروعات الصغيرة",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة المشروعات الصغيرة - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/small_business_management/courses/small_business_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "إدارة المشروعات الصغيرة - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/management/semester2/small_business_management/curriculum/small_business_management.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "management_computer_usage",
+                    "label": "استخدام الحاسوب",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - استخدام الحاسوب - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/computer_usage/courses/computer_usage_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "استخدام الحاسوب - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/management/semester2/computer_usage/curriculum/computer_usage.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": [
+                          {
+                            "title": "ملخصات - استخدام الحاسوب - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/computer_usage/summaries/computer_usage_summaries.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "management_decision_theory",
+                    "label": "نظرية القرارات",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - نظرية القرارات - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/decision_theory/courses/decision_theory_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "نظرية القرارات - Royal Library",
+                            "description": "30000",
+                            "file": "content/lectures/year3/management/semester2/decision_theory/curriculum/decision_theory.pdf"
+                          },
+                          {
+                            "title": "نظرية القرارات - مسائل عملي - Royal Library",
+                            "description": "1500",
+                            "file": "content/lectures/year3/management/semester2/decision_theory/curriculum/decision_theory_practical_problems.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "management_organization_theory",
+                    "label": "نظرية المنظمة",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - نظرية المنظمة - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year3/management/semester2/organization_theory/courses/organization_theory_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "نظرية المنظمة - Royal Library",
+                            "description": "8000",
+                            "file": "content/lectures/year3/management/semester2/organization_theory/curriculum/organization_theory.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
                   }
                 ]
               }
@@ -1204,570 +1263,599 @@
         "label": "السنة الرابعة",
         "children": [
           {
-            "id": "semester2",
-            "label": "الفصل الثاني",
+            "id": "accounting",
+            "label": "محاسبة",
             "children": [
               {
-                "id": "accounting_international_accounting",
-                "label": "محاسبة - المحاسبة الدولية",
+                "id": "semester2",
+                "label": "الفصل الثاني",
                 "children": [
                   {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "accounting_international_accounting",
+                    "label": "المحاسبة الدولية",
+                    "children": [
                       {
-                        "title": "دورات - المحاسبة الدولية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/international_accounting/courses/international_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "المحاسبة الدولية - Royal Library",
-                        "description": "12000",
-                        "file": "content/lectures/year4/accounting/semester2/international_accounting/curriculum/international_accounting.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "accounting_research_methodology",
-                "label": "محاسبة - منهجية البحث العلمي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - منهجية البحث العلمي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/research_methodology/courses/research_methodology_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "منهجية البحث العلمي - Royal Library",
-                        "description": "4500",
-                        "file": "content/lectures/year4/accounting/semester2/research_methodology/curriculum/research_methodology.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "accounting_management_accounting",
-                "label": "محاسبة - المحاسبة الإدارية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - المحاسبة الإدارية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/management_accounting/courses/management_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "المحاسبة الإدارية - المحاضرة الأولى - Royal Library",
-                        "description": "4000",
-                        "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_1.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - المحاسبة الدولية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/international_accounting/courses/international_accounting_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الإدارية - المحاضرة الثانية - Royal Library",
-                        "description": "4000",
-                        "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_2.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "المحاسبة الدولية - Royal Library",
+                            "description": "12000",
+                            "file": "content/lectures/year4/accounting/semester2/international_accounting/curriculum/international_accounting.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "المحاسبة الإدارية - المحاضرة الثالثة - Royal Library",
-                        "description": "3500",
-                        "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_3.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "accounting_service_establishments_accounting",
-                "label": "محاسبة - محاسبة المنشآت الخدمية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "accounting_research_methodology",
+                    "label": "منهجية البحث العلمي",
+                    "children": [
                       {
-                        "title": "دورات - محاسبة المنشآت الخدمية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/service_establishments_accounting/courses/service_establishments_accounting_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "محاسبة المنشآت الخدمية - Royal Library",
-                        "description": "12000",
-                        "file": "content/lectures/year4/accounting/semester2/service_establishments_accounting/curriculum/service_establishments_accounting.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "accounting_accounting_theory",
-                "label": "محاسبة - نظرية المحاسبة",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - نظرية المحاسبة - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/accounting_theory/courses/accounting_theory_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "نظرية المحاسبة - Royal Library",
-                        "description": "32000",
-                        "file": "content/lectures/year4/accounting/semester2/accounting_theory/curriculum/accounting_theory.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "banking_bank_management",
-                "label": "مصارف - إدارة البنوك",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة البنوك - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/banking/semester2/bank_management/courses/bank_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": []
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "banking_investment_management",
-                "label": "مصارف - إدارة الاستثمار",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة الاستثمار - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/banking/semester2/investment_management/courses/investment_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "إدارة الاستثمار - Royal Library",
-                        "description": "10000",
-                        "file": "content/lectures/year4/banking/semester2/investment_management/curriculum/investment_management.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "banking_financial_economics",
-                "label": "مصارف - الاقتصاد المالي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - الاقتصاد المالي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/banking/semester2/financial_economics/courses/financial_economics_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "الاقتصاد المالي - المحاضرات 1 و 2 و 3 - Royal Library",
-                        "description": "4500",
-                        "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_1_2_3.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - منهجية البحث العلمي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/research_methodology/courses/research_methodology_courses.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "الاقتصاد المالي - المحاضرات 3 و 4 و 5 - Royal Library",
-                        "description": "6500",
-                        "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_3_4_5.pdf"
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "منهجية البحث العلمي - Royal Library",
+                            "description": "4500",
+                            "file": "content/lectures/year4/accounting/semester2/research_methodology/curriculum/research_methodology.pdf"
+                          }
+                        ]
                       },
                       {
-                        "title": "الاقتصاد النقدي - المحاضرتين 1 و 2 - Royal Library",
-                        "description": "2500",
-                        "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_1_2.pdf"
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
+                    "id": "accounting_management_accounting",
+                    "label": "المحاسبة الإدارية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - المحاسبة الإدارية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/management_accounting/courses/management_accounting_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "المحاسبة الإدارية - المحاضرة الأولى - Royal Library",
+                            "description": "4000",
+                            "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_1.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الإدارية - المحاضرة الثانية - Royal Library",
+                            "description": "4000",
+                            "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_2.pdf"
+                          },
+                          {
+                            "title": "المحاسبة الإدارية - المحاضرة الثالثة - Royal Library",
+                            "description": "3500",
+                            "file": "content/lectures/year4/accounting/semester2/management_accounting/curriculum/management_accounting_lecture_3.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_service_establishments_accounting",
+                    "label": "محاسبة المنشآت الخدمية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - محاسبة المنشآت الخدمية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/service_establishments_accounting/courses/service_establishments_accounting_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "محاسبة المنشآت الخدمية - Royal Library",
+                            "description": "12000",
+                            "file": "content/lectures/year4/accounting/semester2/service_establishments_accounting/curriculum/service_establishments_accounting.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_accounting_theory",
+                    "label": "نظرية المحاسبة",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - نظرية المحاسبة - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/accounting_theory/courses/accounting_theory_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "نظرية المحاسبة - Royal Library",
+                            "description": "32000",
+                            "file": "content/lectures/year4/accounting/semester2/accounting_theory/curriculum/accounting_theory.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "accounting_administrative_financial_control",
+                    "label": "الرقابة الإدارية والمالية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الرقابة الإدارية والمالية - Royal Library",
+                            "description": "3500",
+                            "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
                   }
                 ]
-              },
-
+              }
+            ]
+          },
+          {
+            "id": "banking",
+            "label": "مصارف",
+            "children": [
               {
-                "id": "accounting_administrative_financial_control",
-                "label": "محاسبة - الرقابة الإدارية والمالية",
+                "id": "semester2",
+                "label": "الفصل الثاني",
                 "children": [
                   {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "banking_bank_management",
+                    "label": "إدارة البنوك",
+                    "children": [
                       {
-                        "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة البنوك - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/bank_management/courses/bank_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": []
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
+                    "id": "banking_investment_management",
+                    "label": "إدارة الاستثمار",
+                    "children": [
                       {
-                        "title": "الرقابة الإدارية والمالية - Royal Library",
-                        "description": "3500",
-                        "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة الاستثمار - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/investment_management/courses/investment_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "إدارة الاستثمار - Royal Library",
+                            "description": "10000",
+                            "file": "content/lectures/year4/banking/semester2/investment_management/curriculum/investment_management.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
+                    "id": "banking_financial_economics",
+                    "label": "الاقتصاد المالي",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الاقتصاد المالي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/financial_economics/courses/financial_economics_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الاقتصاد المالي - المحاضرات 1 و 2 و 3 - Royal Library",
+                            "description": "4500",
+                            "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_1_2_3.pdf"
+                          },
+                          {
+                            "title": "الاقتصاد المالي - المحاضرات 3 و 4 و 5 - Royal Library",
+                            "description": "6500",
+                            "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_3_4_5.pdf"
+                          },
+                          {
+                            "title": "الاقتصاد النقدي - المحاضرتين 1 و 2 - Royal Library",
+                            "description": "2500",
+                            "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_1_2.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_financial_analysis",
+                    "label": "التحليل المالي",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - التحليل المالي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/financial_analysis/courses/financial_analysis_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "التحليل المالي - Royal Library",
+                            "description": "5000",
+                            "file": "content/lectures/year4/banking/semester2/financial_analysis/curriculum/financial_analysis.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_research_methodology",
+                    "label": "منهجية البحث العلمي",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - منهجية البحث العلمي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/research_methodology/courses/research_methodology_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "منهجية البحث العلمي - المحاضرة الأولى - Royal Library",
+                            "description": "1500",
+                            "file": "content/lectures/year4/banking/semester2/research_methodology/curriculum/research_methodology_lecture_1.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
                   }
                 ]
-              },
+              }
+            ]
+          },
+          {
+            "id": "management",
+            "label": "إدارة أعمال",
+            "children": [
               {
-                "id": "banking_financial_analysis",
-                "label": "مصارف - التحليل المالي",
+                "id": "semester2",
+                "label": "الفصل الثاني",
                 "children": [
                   {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "management_administrative_development",
+                    "label": "التنمية الإدارية",
+                    "children": [
                       {
-                        "title": "دورات - التحليل المالي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/banking/semester2/financial_analysis/courses/financial_analysis_courses.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - التنمية الإدارية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/administrative_development/courses/administrative_development_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "التنمية الإدارية - Royal Library",
+                            "description": "12000",
+                            "file": "content/lectures/year4/management/semester2/administrative_development/curriculum/administrative_development.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
+                    "id": "management_international_marketing",
+                    "label": "التسويق الدولي",
+                    "children": [
                       {
-                        "title": "التحليل المالي - Royal Library",
-                        "description": "5000",
-                        "file": "content/lectures/year4/banking/semester2/financial_analysis/curriculum/financial_analysis.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - التسويق الدولي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/international_marketing/courses/international_marketing_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": []
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "banking_research_methodology",
-                "label": "مصارف - منهجية البحث العلمي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "management_business_organizations_management",
+                    "label": "إدارة المنظمات التجارية",
+                    "children": [
                       {
-                        "title": "دورات - منهجية البحث العلمي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/banking/semester2/research_methodology/courses/research_methodology_courses.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - إدارة المنظمات التجارية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/business_organizations_management/courses/business_organizations_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": []
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
+                    "id": "strategic_management",
+                    "label": "الإدارة الاستراتيجية",
+                    "children": [
                       {
-                        "title": "منهجية البحث العلمي - المحاضرة الأولى - Royal Library",
-                        "description": "1500",
-                        "file": "content/lectures/year4/banking/semester2/research_methodology/curriculum/research_methodology_lecture_1.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الإدارة الاستراتيجية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/strategic_management/courses/strategic_management_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الإدارة الاستراتيجية - Royal Library",
+                            "description": "7500",
+                            "file": "content/lectures/year4/management/semester2/strategic_management/curriculum/strategic_management.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_administrative_development",
-                "label": "إدارة أعمال - التنمية الإدارية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
+                    "id": "administrative_financial_control",
+                    "label": "الرقابة الإدارية والمالية",
+                    "children": [
                       {
-                        "title": "دورات - التنمية الإدارية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/administrative_development/courses/administrative_development_courses.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الرقابة الإدارية والمالية - Royal Library",
+                            "description": "13000",
+                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
                   },
                   {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
+                    "id": "management_research_methodology",
+                    "label": "منهجية البحث العلمي",
+                    "children": [
                       {
-                        "title": "التنمية الإدارية - Royal Library",
-                        "description": "12000",
-                        "file": "content/lectures/year4/management/semester2/administrative_development/curriculum/administrative_development.pdf"
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - منهجية البحث العلمي - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/research_methodology/courses/research_methodology_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "منهجية البحث العلمي - Royal Library",
+                            "description": "8500",
+                            "file": "content/lectures/year4/management/semester2/research_methodology/curriculum/research_methodology.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
                       }
                     ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_international_marketing",
-                "label": "إدارة أعمال - التسويق الدولي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - التسويق الدولي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/international_marketing/courses/international_marketing_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": []
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_business_organizations_management",
-                "label": "إدارة أعمال - إدارة المنظمات التجارية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - إدارة المنظمات التجارية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/business_organizations_management/courses/business_organizations_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": []
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "strategic_management",
-                "label": "إدارة أعمال - الإدارة الاستراتيجية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - الإدارة الاستراتيجية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/strategic_management/courses/strategic_management_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "الإدارة الاستراتيجية - Royal Library",
-                        "description": "7500",
-                        "file": "content/lectures/year4/management/semester2/strategic_management/curriculum/strategic_management.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "administrative_financial_control",
-                "label": "إدارة أعمال - الرقابة الإدارية والمالية",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "الرقابة الإدارية والمالية - Royal Library",
-                        "description": "13000",
-                        "file": "content/lectures/year4/management/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
-                  }
-                ]
-              },
-              {
-                "id": "management_research_methodology",
-                "label": "إدارة أعمال - منهجية البحث العلمي",
-                "children": [
-                  {
-                    "id": "courses",
-                    "label": "دورات المادة",
-                    "items": [
-                      {
-                        "title": "دورات - منهجية البحث العلمي - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year4/management/semester2/research_methodology/courses/research_methodology_courses.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "curriculum",
-                    "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "منهجية البحث العلمي - Royal Library",
-                        "description": "8500",
-                        "file": "content/lectures/year4/management/semester2/research_methodology/curriculum/research_methodology.pdf"
-                      }
-                    ]
-                  },
-                  {
-                    "id": "summaries",
-                    "label": "ملخصات",
-                    "items": []
                   }
                 ]
               }

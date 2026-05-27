@@ -26,10 +26,10 @@ CATALOG_PATH = BASE_DIR / "content_catalog.json"
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CONTACT_BUTTON_TEXT = "التوصية و الاستفسار"
 # Set this to True if you want to force users to join the channel first.
-REQUIRE_CHANNEL = False
+REQUIRE_CHANNEL = True
 
-REQUIRED_CHANNEL = "@royal202600"
-CHANNEL_URL = "https://t.me/royal202600"
+REQUIRED_CHANNEL = "@royallibrary26"
+CHANNEL_URL = "https://t.me/royallibrary26"
 
 logging.basicConfig(
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
@@ -209,7 +209,12 @@ async def show_dynamic_menu(
     items = get_current_items(section, path)
 
     if not children and not items:
-        text = " / ".join(labels) + "\n\nلا يوجد محتوى حاليًا في هذا القسم."
+        text = (
+            " / ".join(labels)
+            + "\n\n"
+            + "⚠️ لا توجد ملفات متاحة حالياً في هذا القسم.\n"
+            + "سيتم إضافة المحتوى قريباً إن شاء الله."
+        )
     else:
         text = " / ".join(labels) + "\n\nاختر من القائمة:"
 
@@ -439,7 +444,7 @@ async def text_router(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             if selected_item.get("description"):
                 caption_parts.append(selected_item["description"])
 
-            caption = "\n".join(caption_parts)
+            caption = "\n".join(caption_parts) +" ل.س "
 
             if file_path.exists():
                 try:
