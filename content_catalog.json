@@ -349,7 +349,7 @@
                     "items": [
                       {
                         "title": "دورات - الإحصاء التطبيقي - Royal Library",
-                        "description": "14000",
+                        "description": "",
                         "file": "content/lectures/year2/semester2/applied_statistics/courses/applied_statistics_courses.pdf"
                       }
                     ]
@@ -388,7 +388,7 @@
                     "items": [
                       {
                         "title": "دورات - اللغة الإنجليزية 4 - Royal Library",
-                        "description": "5000",
+                        "description": "",
                         "file": "content/lectures/year2/semester2/english_4/courses/english_4_courses.pdf"
                       }
                     ]
@@ -917,12 +917,12 @@
                             "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_2.pdf"
                           },
                           {
-                            "title": "المحاسبة الضريبية - الفصل الأول - Royal Library",
+                            "title": "المحاسبة الضريبية - الفصل الثالث - Royal Library",
                             "description": "4000",
                             "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_3.pdf"
                           },
                           {
-                            "title": "المحاسبة الضريبية - الفصل الثاني - Royal Library",
+                            "title": "المحاسبة الضريبية - الفصل الرابع - Royal Library",
                             "description": "4500",
                             "file": "content/lectures/year3/banking/semester2/tax_accounting/curriculum/tax_accounting_chapter_4.pdf"
                           }
@@ -1446,30 +1446,18 @@
                     ]
                   },
                   {
-                    "id": "accounting_administrative_financial_control",
-                    "label": "الرقابة الإدارية والمالية",
+                    "id": "accounting_asol",
+                    "label": "اصول 2",
                     "children": [
                       {
                         "id": "courses",
                         "label": "دورات المادة",
-                        "items": [
-                          {
-                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
-                            "description": "",
-                            "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
-                          }
-                        ]
+                        "items": []
                       },
                       {
                         "id": "curriculum",
                         "label": "مقررات المادة",
-                        "items": [
-                          {
-                            "title": "الرقابة الإدارية والمالية - Royal Library",
-                            "description": "3500",
-                            "file": "content/lectures/year4/accounting/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
-                          }
-                        ]
+                        "items": []
                       },
                       {
                         "id": "summaries",
@@ -1492,14 +1480,14 @@
                 "children": [
                   {
                     "id": "banking_bank_management",
-                    "label": "إدارة البنوك",
+                    "label": "إدارة المصارف",
                     "children": [
                       {
                         "id": "courses",
                         "label": "دورات المادة",
                         "items": [
                           {
-                            "title": "دورات - إدارة البنوك - Royal Library",
+                            "title": "دورات - إدارة المصارف - Royal Library",
                             "description": "",
                             "file": "content/lectures/year4/banking/semester2/bank_management/courses/bank_management_courses.pdf"
                           }
@@ -1583,6 +1571,39 @@
                             "title": "الاقتصاد النقدي - المحاضرتين 1 و 2 - Royal Library",
                             "description": "2500",
                             "file": "content/lectures/year4/banking/semester2/financial_economics/curriculum/financial_economics_lectures_1_2.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "banking_administrative_financial_control",
+                    "label": "الرقابة الإدارية والمالية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/banking/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الرقابة الإدارية والمالية - Royal Library",
+                            "description": "3500",
+                            "file": "content/lectures/year4/banking/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
                           }
                         ]
                       },
@@ -1704,6 +1725,40 @@
                       }
                     ]
                   },
+
+                  {
+                    "id": "management_administrative_financial_control",
+                    "label": "الرقابة الإدارية والمالية",
+                    "children": [
+                      {
+                        "id": "courses",
+                        "label": "دورات المادة",
+                        "items": [
+                          {
+                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
+                            "description": "",
+                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "curriculum",
+                        "label": "مقررات المادة",
+                        "items": [
+                          {
+                            "title": "الرقابة الإدارية والمالية - Royal Library",
+                            "description": "3500",
+                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "summaries",
+                        "label": "ملخصات",
+                        "items": []
+                      }
+                    ]
+                  },
                   {
                     "id": "management_international_marketing",
                     "label": "التسويق الدولي",
@@ -1781,39 +1836,6 @@
                             "title": "الإدارة الاستراتيجية - Royal Library",
                             "description": "7500",
                             "file": "content/lectures/year4/management/semester2/strategic_management/curriculum/strategic_management.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "summaries",
-                        "label": "ملخصات",
-                        "items": []
-                      }
-                    ]
-                  },
-                  {
-                    "id": "administrative_financial_control",
-                    "label": "الرقابة الإدارية والمالية",
-                    "children": [
-                      {
-                        "id": "courses",
-                        "label": "دورات المادة",
-                        "items": [
-                          {
-                            "title": "دورات - الرقابة الإدارية والمالية - Royal Library",
-                            "description": "",
-                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/courses/administrative_financial_control_courses.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "id": "curriculum",
-                        "label": "مقررات المادة",
-                        "items": [
-                          {
-                            "title": "الرقابة الإدارية والمالية - Royal Library",
-                            "description": "13000",
-                            "file": "content/lectures/year4/management/semester2/administrative_financial_control/curriculum/administrative_financial_control.pdf"
                           }
                         ]
                       },

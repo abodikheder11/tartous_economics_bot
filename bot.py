@@ -444,7 +444,7 @@ async def text_router(update: Update, context: ContextTypes.DEFAULT_TYPE) -> Non
             if selected_item.get("description"):
                 caption_parts.append(selected_item["description"])
 
-            caption = "\n".join(caption_parts) +" ل.س "
+            caption = "\n".join(caption_parts)
 
             if file_path.exists():
                 try:
