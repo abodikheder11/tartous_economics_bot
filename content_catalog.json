@@ -34,13 +34,7 @@
                   {
                     "id": "curriculum",
                     "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "التحليل الاقتصادي الجزئي - Royal Library",
-                        "description": "14000",
-                        "file": "content/lectures/year1/semester2/microeconomic_analysis/curriculum/microeconomic_analysis.pdf"
-                      }
-                    ]
+                    "items": []
                   },
                   {
                     "id": "summaries",
@@ -78,11 +72,6 @@
                         "title": "اللغة الإنجليزية 2 - Royal Library",
                         "description": "3500",
                         "file": "content/lectures/year1/semester2/english2/curriculum/english_2.pdf"
-                      },
-                      {
-                        "title": "اللغة الإنجليزية 2 - الترجمة - Royal Library",
-                        "description": "",
-                        "file": "content/lectures/year1/semester2/english2/curriculum/english_2_translation.pdf"
                       }
                     ]
                   },
@@ -357,13 +346,7 @@
                   {
                     "id": "curriculum",
                     "label": "مقررات المادة",
-                    "items": [
-                      {
-                        "title": "الإحصاء التطبيقي - Royal Library",
-                        "description": "14000",
-                        "file": "content/lectures/year2/semester2/applied_statistics/curriculum/applied_statistics.pdf"
-                      }
-                    ]
+                    "items": []
                   },
                   {
                     "id": "summaries",

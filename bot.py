@@ -25,6 +25,7 @@ BASE_DIR = Path(__file__).resolve().parent
 CATALOG_PATH = BASE_DIR / "content_catalog.json"
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CONTACT_BUTTON_TEXT = "التوصية و الاستفسار"
+HIDE_SUMMARIES = True
 # Set this to True if you want to force users to join the channel first.
 REQUIRE_CHANNEL = True
 
@@ -60,10 +61,17 @@ CATALOG = load_catalog()
 def section_name(section: str) -> str:
     return CATALOG.get("sections", {}).get(section, section)
 
+def is_hidden_node(node: Dict[str, Any]) -> bool:
+    return HIDE_SUMMARIES and node.get("id") == "summaries"
+
+
+def visible_nodes(nodes: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    return [node for node in nodes if not is_hidden_node(node)]
+
 
 def get_root_nodes(section: str) -> List[Dict[str, Any]]:
-    return CATALOG.get("menus", {}).get(section, [])
-
+    nodes = CATALOG.get("menus", {}).get(section, [])
+    return visible_nodes(nodes)
 
 def get_menu_path(context: ContextTypes.DEFAULT_TYPE) -> List[str]:
     return context.user_data.get("menu_path", [])
@@ -97,7 +105,7 @@ def find_node_by_path(section: str, path: List[str]) -> Dict[str, Any] | None:
         if not current_node:
             return None
 
-        nodes = current_node.get("children", [])
+        nodes = visible_nodes(current_node.get("children", []))
 
     return current_node
 
@@ -111,8 +119,7 @@ def get_current_children(section: str, path: List[str]) -> List[Dict[str, Any]]:
     if not node:
         return []
 
-    return node.get("children", [])
-
+    return visible_nodes(node.get("children", []))
 
 def get_current_items(section: str, path: List[str]) -> List[Dict[str, Any]]:
     if not path:
@@ -137,7 +144,7 @@ def get_path_labels(section: str, path: List[str]) -> List[str]:
             break
 
         labels.append(node.get("label", node_id))
-        nodes = node.get("children", [])
+        nodes = visible_nodes(node.get("children", []))
 
     return labels
 
